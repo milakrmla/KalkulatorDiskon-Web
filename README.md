@@ -33,7 +33,7 @@ Aplikasi memiliki satu halaman utama dengan dua kondisi tampilan:
 Tampilan sebelum pengguna memasukkan nominal belanja.
 
 <p align="center">
-  <img src="assets/img/halaman_awal.png" width="90%" alt="Halaman Awal">
+  <img src="assets/img/halaman_awal.png" width="50%" alt="Halaman Awal">
 </p>
 
 **2. Hasil Perhitungan**
@@ -41,7 +41,7 @@ Tampilan sebelum pengguna memasukkan nominal belanja.
 Tampilan setelah nominal belanja dimasukkan, menampilkan rincian diskon, total pembayaran, dan riwayat transaksi.
 
 <p align="center">
-  <img src="assets/img/halaman_hasil.png" width="90%" alt="Hasil Perhitungan">
+  <img src="assets/img/halaman_hasil.png" width="50%" alt="Halaman Hasil">
 </p>
 
 ## ✨ Fitur
