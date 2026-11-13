@@ -33,7 +33,7 @@ Aplikasi memiliki satu halaman utama dengan dua kondisi tampilan:
 Tampilan sebelum pengguna memasukkan nominal belanja.
 
 <p align="center">
-  <img src="assets/img/halaman-awal.png" width="90%" alt="Halaman Awal">
+  <img src="assets/img/halaman_awal.png" width="90%" alt="Halaman Awal">
 </p>
 
 **2. Hasil Perhitungan**
@@ -41,7 +41,7 @@ Tampilan sebelum pengguna memasukkan nominal belanja.
 Tampilan setelah nominal belanja dimasukkan, menampilkan rincian diskon, total pembayaran, dan riwayat transaksi.
 
 <p align="center">
-  <img src="assets/img/hasil-perhitungan.png" width="90%" alt="Hasil Perhitungan">
+  <img src="assets/img/halaman_hasil.png" width="90%" alt="Hasil Perhitungan">
 </p>
 
 ## ✨ Fitur
@@ -125,19 +125,6 @@ Tugas Pertemuan 6-8/
 └── README.md
 ```
 
-### Keterangan File
-
-| File / Folder | Fungsi |
-|:---|:---|
-| `assets/` | Menyimpan file pendukung aplikasi |
-| `assets/style.css` | Mengatur desain dan tampilan |
-| `assets/img/` | Menyimpan screenshot aplikasi |
-| `database/` | Menyimpan file database SQL |
-| `db_diskon.sql` | File untuk membuat database dan tabel |
-| `index.php` | Halaman utama dan proses perhitungan |
-| `koneksi.php` | Mengatur koneksi database |
-| `README.md` | Dokumentasi proyek |
-
 ## 💾 Database
 
 Nama database: `db_diskon`
@@ -212,6 +199,6 @@ Setelah berhasil, database `db_diskon` beserta tabel `transaksi` akan terbentuk 
 
 <div align="center">
 
-**Dibuat sebagai proyek pembelajaran Pemrograman Web.**
+**✨ Hitung Diskon dan Total Belanja dengan Mudah**
 
 </div>
